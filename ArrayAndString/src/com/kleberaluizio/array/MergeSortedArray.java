@@ -25,8 +25,8 @@ public class MergeSortedArray {
 //        merge(nums1,m,nums2,n);
 
         //Example 4
-        int [] nums1 = {1,2,3,3,0,0,0,0,0,0};
-        int [] nums2 = {2,2,2,3,4,6};
+        int [] nums1 = {1,2,3,3,0,0,0,0,0,0,0};
+        int [] nums2 = {2,2,2,3,4,6,9};
         int m = nums1.length-nums2.length;
         int n = nums2.length;
         mergeSecond(nums1,m,nums2,n);
