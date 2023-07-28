@@ -25,5 +25,6 @@ public class RunningSumOf1dArray_1480 {
             }
         }
         return output;
+        //GOOD
     }
 }
